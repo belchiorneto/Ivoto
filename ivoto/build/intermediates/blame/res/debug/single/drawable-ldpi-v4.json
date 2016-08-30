@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sobre.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\sobre.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ab_texture_tile_example.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ab_texture_tile_example.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\camera.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\camera.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ab_solid_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ab_solid_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrow.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\arrow.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_suggestion.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_suggestion.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_action_search.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_action_action_search.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\spinner_ab_disabled_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\spinner_ab_disabled_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\indicar.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\indicar.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\botaoindicado.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\botaoindicado.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\list_pressed_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\list_pressed_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trocarperfil.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\trocarperfil.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\home.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\home.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\progress_bg_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\progress_bg_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_cab_done_example.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\btn_cab_done_example.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\gradient_bg_hover.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\idea.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\idea.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\tab_indicator_ab_example.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\tab_indicator_ab_example.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\spinner_ab_pressed_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\spinner_ab_pressed_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\votarcandidato.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\votarcandidato.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ab_bottom_solid_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ab_bottom_solid_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\tab_unselected_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\tab_unselected_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ab_stacked_solid_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ab_stacked_solid_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\construcao.jpg",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\construcao.jpg"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\loc.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\loc.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sim.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\sim.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\avaliarpropostas.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\avaliarpropostas.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_cab_done_pressed_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\btn_cab_done_pressed_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\arrowdown.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\arrowdown.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_create_black_48dp.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_create_black_48dp.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cancelar.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\cancelar.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\selectable_background_example.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\selectable_background_example.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_remove_circle_outline_black_48dp.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_remove_circle_outline_black_48dp.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\no_image.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\no_image.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\confirma.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\confirma.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_save_black_48dp.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_save_black_48dp.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\menuicon.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\menuicon.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_cab_done_default_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\btn_cab_done_default_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\eleitores.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\eleitores.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ab_transparent_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ab_transparent_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\iconeleitor.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\iconeleitor.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\search_ic.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\search_ic.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_fab_star.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_fab_star.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\apoio.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\apoio.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\tab_bar_background.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\tab_bar_background.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\realizado.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\realizado.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_save_black_24dp.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_save_black_24dp.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\list_selector.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\list_selector.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\confirmado.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\confirmado.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_create_black_24dp.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_create_black_24dp.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_navigation_arrow_back.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_action_navigation_arrow_back.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\iconcandidato.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\iconcandidato.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\menu_dropdown_panel_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\menu_dropdown_panel_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_navigation_arrow_back_inverted.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_action_navigation_arrow_back_inverted.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\indicarcandidato.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\indicarcandidato.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mensagemcandidato.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\mensagemcandidato.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\botaoindicar.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\botaoindicar.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_navigation_close_inverted.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_action_navigation_close_inverted.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_remove_circle_outline_black_24dp.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_remove_circle_outline_black_24dp.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\precandidato.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\precandidato.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\apaga.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\apaga.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\avaliarrealizacoes.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\avaliarrealizacoes.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_undo_black_24dp.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\msg.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\msg.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\progress_horizontal_example.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\progress_horizontal_example.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_add_circle_black_24dp.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_add_circle_black_24dp.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\botaomais.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\botaomais.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\indicado.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\indicado.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\edit.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\edit.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\heart.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\heart.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\atualiza.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\atualiza.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\spinner_ab_default_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\spinner_ab_default_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seguirapoio.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\seguirapoio.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_navigation_close.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_action_navigation_close.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ab_background_textured_example.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ab_background_textured_example.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\load.gif",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\load.gif"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\agenda.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\agenda.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\gradient_bg.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\spinner_background_ab_example.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\spinner_background_ab_example.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_voice_search.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_action_voice_search.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\tab_unselected_pressed_example.9.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\tab_unselected_pressed_example.9.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\play.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\play.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\transparent.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\transparent.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\nao.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\nao.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_voice_search_inverted.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\ic_action_voice_search_inverted.png"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\image_bg.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\image_bg.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\administrar.png",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\drawable-ldpi\\administrar.png"
+    }
+]

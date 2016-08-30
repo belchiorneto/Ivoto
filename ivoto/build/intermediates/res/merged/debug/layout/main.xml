@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+     android:padding="2dp">
+
+    <LinearLayout
+        android:id="@+id/layspinners"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+	<!-- Lista de cidades -->
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list_cidades"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="#b5b5b5"
+        android:visibility="gone"
+        android:dividerHeight="1dp" 
+    />
+
+	 <ListView
+        android:id="@+id/lista_can"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="#b5b5b5"
+        android:dividerHeight="1dp"
+        android:listSelector="@drawable/list_selector" />
+
+<ProgressBar 
+	 android:id="@+id/loadbar"
+	 android:layout_width="wrap_content" 
+	 android:layout_height="wrap_content"
+     android:layout_centerHorizontal="true"
+     android:layout_centerVertical="true"
+     android:layout_centerInParent="true" />
+<Button
+    android:id="@+id/sharebut"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shape_buttons"
+    android:layout_gravity="center_horizontal"
+    android:text="COMPARTILHAR" />
+
+
+  
+</LinearLayout>

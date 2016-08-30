@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    }
+]

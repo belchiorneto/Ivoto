@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="schemas.android.com/tools"
+    xmlns:compat="http://schemas.android.com/apk/res-auto"
+    tools:context="com.lojapro.can.Eleitor">
+    <item android:id="@+id/alteracidade" android:alphabeticShortcut="a"
+        android:title="Alterar Cidade" android:orderInCategory="1" />
+    <item android:id="@+id/alteraperfil" android:alphabeticShortcut="b"
+        android:title="Alterar Perfil" android:orderInCategory="2">
+        <menu >
+        <group android:id="@+id/group2" android:checkableBehavior="single">
+            <item android:id="@+id/menueleitor" android:title="Eleitor" />
+            <item android:id="@+id/menucandidato" android:title="Candidato" />
+        </group>   
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listaestados">
+        <item>@string/AC</item>
+        <item>@string/AL</item>
+        <item>@string/AM</item>
+        <item>@string/AP</item>
+        <item>@string/BA</item>
+        <item>@string/CE</item>
+        <item>@string/DF</item>
+        <item>@string/ES</item>
+        <item>@string/GO</item>
+        <item>@string/MA</item>
+        <item>@string/MG</item>
+        <item>@string/MS</item>
+        <item>@string/MT</item>
+        <item>@string/PA</item>
+        <item>@string/PB</item>
+        <item>@string/PE</item>
+        <item>@string/PI</item>
+        <item>@string/PR</item>
+        <item>@string/RJ</item>
+        <item>@string/RN</item>
+        <item>@string/RO</item>
+        <item>@string/RR</item>
+        <item>@string/RS</item>
+        <item>@string/SC</item>
+        <item>@string/SE</item>
+        <item>@string/SP</item>
+        <item>@string/TO</item>
+    </string-array>
+</resources>

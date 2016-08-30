@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="search_hint">Busca</string>
+	<!--  Dados dos menus -->
+	<string name="trocarperfil">Trocar Perfil</string>
+	<string name="trocarcidade">Trocar Cidade</string>
+	<string name="sobre">Sobre Nós</string>
+	
+	<!--  Dados do cadastro -->
+	<string name="seunome">Seu nome</string>
+	<string name="seuemail">Seu Email</string>
+	<string name="buscacidade">Buscar Cidade</string>
+	<string name="escolhacidade">Escolha uma cidade</string>
+	<string name="precandidato">Novo pré-candidato</string>
+	
+	<string name="existente">Vincular existente</string>
+	<string name="contatocan">Mensagem ao Candidato</string>
+	<string name="inicioescolha">Escolha um perfil</string>
+	<string name="textcandidato">CANDIDATO</string>
+	<string name="texteleitor">ELEITOR</string>
+	<string name="eleitor">Perfil do Eleitor</string>
+	<string name="eleitores">Eleitores</string>
+	<string name="seguirapoio">Gerenciar Apoiadores</string>
+	<string name="apoio">Apoiadores de Campanha</string>
+	<string name="mensagens">Contato Direto</string>
+	<string name="agenda">Agenda</string>
+	<string name="realizado">Realizações</string>
+	<string name="propostas">Propostas e idéias</string>
+	<string name="candidato">Seção do Candidato</string>
+	<string name="adminperfilcan">Administrar Perfil</string>
+    <string name="btnUploadToServer">Enviar</string>
+    <string name="app_name">Candidato</string>
+    <string name="app_listacid">Escolha uma Cidade</string>
+    <string name="app_listacan">Lista De Candidatos</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="search_title">Busca</string>
+    <string name="candidatos">Candidatos</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+
+    <string name="demo_external_activity">Demo External Activity</string>
+    <string name="demo_collection">Demo Collection</string>
+    
+	<!--  Menu items -->
+    <string name="settings">Config</string>
+    <string name="refresh">Atualizar</string>
+
+    <!--  NetworkActivity -->
+    <string name="page_title">Lista</string>
+    <string name="updated">Atualizado:</string>
+    <string name="lost_connection">Conexão perdida.</string>
+    <string name="wifi_connected">Wi-Fi reconectado.</string>
+    <string name="connection_error">Incapaz de carregar o conteúdo, verifique a conexão com internet.</string>
+    <string name="xml_error">Erro ao carregar a lista.</string>
+	<string name="escolha_estado">Escolha um estado</string>
+	<string name="AC">AC</string>
+    <string name="AL">AL</string>
+    <string name="AM">AM</string>
+    <string name="AP">AP</string>
+    <string name="BA">BA</string>
+    <string name="CE">CE</string>
+    <string name="DF">DF</string>
+    <string name="ES">ES</string>
+    <string name="GO">GO</string>
+    <string name="MA">MA</string>
+    <string name="MG">MG</string>
+    <string name="MS">MS</string>
+    <string name="MT">MT</string>
+    <string name="PA">PA</string>
+    <string name="PB">PB</string>
+    <string name="PE">PE</string>
+    <string name="PI">PI</string>
+    <string name="PR">PR</string>
+    <string name="RJ">RJ</string>
+    <string name="RN">RN</string>
+    <string name="RO">RO</string>
+    <string name="RR">RR</string>
+    <string name="RS">RS</string>
+    <string name="SC">SC</string>
+    <string name="SE">SE</string>
+    <string name="SP">SP</string>
+    <string name="TO">TO</string>
+    <string name="some_text">Alguns dados</string>
+</resources>
+

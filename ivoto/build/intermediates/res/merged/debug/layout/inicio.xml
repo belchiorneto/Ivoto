@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:text="Seja bem vindo!"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:text="Este aplicativo tem como objetivo principal facilitar ao CANDIDATO, a publicação de informações relevantes acerca de sua candidatura, e ao ELEITOR consultar todas as informações necessárias para uma boa escolha, esperamos que goste do aplicativo :)"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/black" />
+
+   	<LinearLayout
+   	    android:layout_width="match_parent"
+   	    android:layout_height="wrap_content" >
+
+   		<Button
+   		    android:id="@+id/eleitor"
+   		    android:layout_width="120dp"
+   		    android:layout_height="wrap_content"
+   		    android:layout_marginLeft="15dp"
+   		    android:background="@drawable/shape_buttons"
+   		    android:text="@string/texteleitor" />
+
+   		<Button
+   		    android:id="@+id/candidato"
+   		    android:layout_width="120dp"
+   		    android:layout_height="wrap_content"
+   		    android:layout_gravity="right"
+   		    android:layout_marginLeft="40dp"
+   		    android:background="@drawable/shape_buttons"
+   		    android:text="@string/textcandidato" />
+
+   	</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_object.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\fragment_collection_object.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_votar.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_row_votar.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\comregistro.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\comregistro.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_cidades.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_cidades.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\testemenu.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\testemenu.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\popup_layout_votar.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\popup_layout_votar.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_default.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\toolbar_default.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\search_view.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\search_view.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\country_info.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\country_info.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_candidato.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_row_candidato.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\feitos.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\feitos.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\popup_proposta.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\popup_proposta.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\avaliarproposta.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\avaliarproposta.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\propostas.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\propostas.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_section_dummy.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\fragment_section_dummy.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\trocarimagem.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\trocarimagem.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\registrarcomocandidato.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\registrarcomocandidato.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\activity_principal.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\activity_principal.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\suggest_item.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\suggest_item.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\acesso_negado.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\acesso_negado.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\lista_candidatos.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\lista_candidatos.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_cidades.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_row_cidades.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\seguirapoiadores.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\seguirapoiadores.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_section_launchpad.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\fragment_section_launchpad.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\activity_semregistro.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\activity_semregistro.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\popup_layout.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\popup_layout.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_contato.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_row_contato.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\candidato.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\candidato.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_realizado.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_row_realizado.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\admin_perfil.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\admin_perfil.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\swipe.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\swipe.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\imagemnogrid.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\imagemnogrid.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\agenda.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\agenda.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\popup_layout_mensagem.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\popup_layout_mensagem.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\notification_one.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\notification_one.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\eleitores.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\eleitores.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\popup_agenda.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\popup_agenda.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\imagensnogrid.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\imagensnogrid.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\lista_propostas.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\lista_propostas.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\lista_mensagens.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\lista_mensagens.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\inicio.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\inicio.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\votar.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\votar.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\single.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\single.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\fragment1.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\mok_items.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\mok_items.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\realizado.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\realizado.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\popup_realizado.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\popup_realizado.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\notification_two.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\notification_two.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\loadmore.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\loadmore.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\custom_tab.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\custom_tab.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\contato.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\contato.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\mensagens.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\mensagens.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\eleitor.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\eleitor.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\actcontato.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\actcontato.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\estadonome.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\estadonome.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_busca.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_row_busca.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_mensagens.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_row_mensagens.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collection_demo.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\activity_collection_demo.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_propostas.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_row_propostas.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\apoiadores.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\apoiadores.xml"
+    },
+    {
+        "merged": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_agenda.xml",
+        "source": "G:\\apps\\PROJETOS ANDROID STUDIO\\ivoto\\src\\main\\res\\layout\\list_row_agenda.xml"
+    }
+]

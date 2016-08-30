@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:padding="10dp" >
+
+    <LinearLayout
+        android:id="@+id/laynegado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="invisible" >
+
+        <View
+	    android:id="@+id/focus_thief"
+	    android:layout_width="1dp"
+	    android:layout_height="1dp"
+	    android:focusable="true"
+	    android:focusableInTouchMode="true" />
+        <TextView
+            android:id="@+id/msgnegado"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Você não tem acesso para administrar nenhum perfil, para administrar um perfil é necessário vincular seu dispositivo a um pré-candidato existente."
+            android:textColor="@color/white" />
+
+        <LinearLayout
+            android:id="@+id/laytopo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+           
+
+            <Button
+                android:id="@+id/voltar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ok" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/laypermitido"
+        android:focusable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:id="@+id/laytopo2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <ImageView
+                    android:id="@+id/imagemcandidato"
+                    android:layout_width="58dp"
+                    android:layout_height="58dp"
+                    android:src="@drawable/no_image" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/nome"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="4.88"
+                        android:textColor="@color/white"
+                        android:textSize="11sp" />
+
+                    <TextView
+                        android:id="@+id/nomeurna"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:textSize="11sp" />
+                    
+
+                    <TextView
+                        android:id="@+id/local"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="4.88"
+                        android:textColor="@color/white"
+                        android:textSize="11sp" />
+
+                </LinearLayout>
+
+            
+                
+            </LinearLayout>
+            
+        </RelativeLayout>
+
+        <EditText
+            android:id="@+id/msgboasvindas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:lines="3"
+            android:hint="Insira sua mensagem de boas vindas (esta mensagem ficará visível para outros usuários)"
+            android:inputType="textMultiLine" >
+        </EditText>
+
+		<TextView
+		    android:id="@+id/tmsgboasvindas"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text=""
+		    android:textColor="@color/white"
+		    android:textSize="20sp" />
+
+		<LinearLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" >
+
+			<ImageButton
+            android:id="@+id/fab_image_button_save"
+            android:layout_width="@dimen/fab_button_diameter"
+            android:layout_height="@dimen/fab_button_diameter"
+            android:layout_gravity="top"
+            android:background="@drawable/fab_shape"
+            android:src="@drawable/ic_done_black_24dp"
+            android:tint="@android:color/white" />
+			
+			<ImageButton
+            android:id="@+id/fab_image_button_cancel"
+            android:layout_width="@dimen/fab_button_diameter"
+            android:layout_height="@dimen/fab_button_diameter"
+            android:layout_gravity="top"
+            android:background="@drawable/fab_shape"
+            android:src="@drawable/ic_undo_black_24dp"
+            android:tint="@android:color/white" />
+			
+       		<ImageButton
+        android:id="@+id/fab_image_button_edit"
+        android:layout_width="@dimen/fab_button_diameter"
+        android:layout_height="@dimen/fab_button_diameter"
+        android:background="@drawable/fab_shape"
+        android:src="@drawable/ic_create_black_24dp"
+        android:tint="@android:color/white" />
+
+		</LinearLayout>
+	
+		
+    </LinearLayout>
+	
+      
+ <Button
+     android:id="@+id/botaosair"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_alignParentBottom="true"
+     android:layout_alignParentRight="true"
+     android:shadowDx="1"
+     android:shadowDy="1"
+     android:shadowRadius="2"
+     android:text="Trocar Candidato" />
+
+ 
+</RelativeLayout>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:padding="10dp" >
+	<ProgressBar 
+	 android:id="@+id/loadbar"
+	 android:layout_width="wrap_content" 
+	 android:layout_height="wrap_content"
+     android:layout_centerHorizontal="true"
+     android:layout_centerVertical="true"
+     android:layout_centerInParent="true" />
+    	
+    
+    
+    <LinearLayout
+        android:id="@+id/toppanel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:orientation="vertical" >
+	
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="@color/white" />
+
+      <ListView
+            android:id="@+id/listafeitos"
+            android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+            android:divider="#b5b5b5"
+            android:dividerHeight="1dp"
+            android:layout_alignParentBottom="true"
+        	android:padding="5dp"
+            android:listSelector="@drawable/list_selector" >
+      </ListView>
+      <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:background="@drawable/back"
+            android:text=""
+            android:shadowColor="#7F000000"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="2"
+            android:textSize="16sp"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+	  <ImageButton
+        android:id="@+id/fab_image_button"
+        android:layout_width="@dimen/fab_button_diameter"
+        android:layout_height="@dimen/fab_button_diameter"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/fab_button_margin_bottom"
+        android:layout_marginRight="@dimen/fab_button_margin_right"
+        android:background="@drawable/fab_shape"
+        android:src="@drawable/ic_add_circle_black_24dp"
+        android:tint="@android:color/white"/>
+    <ImageButton
+        android:id="@+id/fab_image_button_remove"
+        android:layout_width="@dimen/fab_button_diameter"
+        android:layout_height="@dimen/fab_button_diameter"
+        android:background="@drawable/fab_shape"
+        android:src="@drawable/ic_remove_circle_outline_black_24dp"
+        android:tint="@android:color/white" />
+
+    <ImageButton
+        android:id="@+id/fab_image_button_edit"
+        android:layout_width="@dimen/fab_button_diameter"
+        android:layout_height="@dimen/fab_button_diameter"
+        android:background="@drawable/fab_shape"
+        android:src="@drawable/ic_create_black_24dp"
+        android:tint="@android:color/white" />
+	  
+    </RelativeLayout>

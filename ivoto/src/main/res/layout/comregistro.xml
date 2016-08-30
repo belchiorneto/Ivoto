@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll2"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <ProgressBar 
+	 android:id="@+id/loadbar"
+	 android:layout_width="wrap_content" 
+	 android:layout_height="wrap_content"
+     android:layout_centerHorizontal="true"
+     android:layout_centerVertical="true"
+     android:layout_centerInParent="true" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+       
+    
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/layspinners">
+
+            <Spinner
+                android:id="@+id/SpinnerEstado"
+                android:layout_width="54dp"
+                android:layout_height="match_parent"
+                android:entries="@array/listaestados"
+                android:prompt="@string/escolha_estado" />
+            <Spinner
+            android:id="@+id/spinnercidade"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:prompt="@string/escolhacidade" />
+			
+      
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.5" >
+            <EditText
+                android:id="@+id/nomecandidato"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:hint="insira seu nome"
+                android:inputType="textPersonName"
+                android:textColorHint="@color/white" >
+
+            </EditText>
+            </LinearLayout>
+	
+    </LinearLayout>
+
+	<ListView
+        android:id="@+id/lista_busca_can"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="#b5b5b5"
+        android:dividerHeight="2dp"
+        android:listSelector="@drawable/list_selector" />
+
+</LinearLayout>

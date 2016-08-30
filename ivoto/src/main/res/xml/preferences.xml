@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="Baixar Lista"
+        android:summary="É necessário acesso à internet para baixar a lista."
+        android:key="listPref"
+        android:defaultValue="Wi-Fi"
+        android:entries="@array/listArray"
+        android:entryValues="@array/listValues"
+     />
+    <CheckBoxPreference
+        android:title="Resumo"
+        android:defaultValue="false"
+        android:summary="Mostra resumo para cada link."
+        android:key="summaryPref" />
+</PreferenceScreen>

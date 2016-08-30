@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="wrap_content" 
+android:layout_height="fill_parent"
+android:minHeight="100dp"
+   android:background="@drawable/background"
+android:id="@+id/layout">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textoindica"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="0dp"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:shadowColor="#000"
+            android:shadowDx="-2"
+            android:shadowDy="2"
+            android:shadowRadius="0.01"
+            android:text="Texto Indica"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.5" >
+
+            <ImageView
+                android:id="@+id/botaoindicar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:src="@drawable/sim" />
+
+            <ImageView
+                android:id="@+id/botaocancelar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:src="@drawable/nao" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
